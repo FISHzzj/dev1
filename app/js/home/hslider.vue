@@ -82,7 +82,6 @@ export default {
 }
 .list {
   @include list(row);
-  flex-direction: row;
   background: #ffffff;
   padding-top: 40px;
   padding-bottom: 20px;
